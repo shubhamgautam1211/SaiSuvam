@@ -1,0 +1,27 @@
+.cntn{
+	
+	
+	background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+	background-size: cover;
+	height: 700px;
+
+}
+h1{
+	text-align: center;
+	font-size: 50px;
+	font-weight: bold;
+	font-family: arial;
+	color: black;
+	text-shadow: 2px 2px 2px blue;
+	
+}
+
+
+img{
+	margin-top: 10px;
+	margin-bottom: -30px;
+	padding-top: 20px;
+	width: 100%;
+	text-align: center;
+}
+
